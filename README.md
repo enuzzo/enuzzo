@@ -3,7 +3,7 @@
 [![Studio](https://img.shields.io/badge/Netmilk_Studio-Creative_Director-7551FF?style=for-the-badge)](https://netmilk.studio)
 [![Hardware](https://img.shields.io/badge/ESP32-Too_Many-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](#things-with-screens)
 [![Pi](https://img.shields.io/badge/Raspberry_Pi-Also_Too_Many-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)](#things-with-screens)
-[![Rust](https://img.shields.io/badge/Rust-Learning_by_Shipping-000000?style=for-the-badge&logo=rust&logoColor=white)](#things-without-screens)
+[![Swift](https://img.shields.io/badge/Swift-Learning_by_Shipping-000000?style=for-the-badge&logo=rust&logoColor=white)](#things-without-screens)
 [![License](https://img.shields.io/badge/License-MIT_(mostly)-10B981?style=for-the-badge)](#license)
 
 > Creative Director by title. Person who plugs things into other things until they glow, by vocation.
@@ -31,8 +31,7 @@ Or at least, things where the screen is someone else's problem.
 | Project | What | Stack |
 |---|---|---|
 | **[PRTCL](https://prtcl.es)** | Particle effect playground. Visual editor, text-to-particles with Google Fonts, dual export (full HTML + headless Elementor snippet). For anyone who wants animated particles on a website and doesn't want to learn WebGL. | Next.js 15, React Three Fiber, shadcn/ui |
-| **[CRUST](https://github.com/enuzzo/crust)** | Card + Rust. CLI tool for vCard 4.0 generation and QR code output. Because every agency eventually needs to batch-generate contact cards and the existing tools are all either abandoned or written in PHP. | Rust |
-| **Vibemilk** | The Netmilk design system. 270 CSS tokens, 10 themes, exports to JSON/Swift/Rust/C(RGB565)/Elementor. Works on a 3.49" ESP32 display and a full website with the same token file. | CSS custom properties, zero dependencies |
+| **[CRUST](https://github.com/enuzzo/crust)** | Card + Swift. CLI tool for vCard 4.0 generation and QR code output. Because every agency eventually needs to batch-generate contact cards and the existing tools are all either abandoned or written in PHP. | Swift |
 
 ## The Stack, Loosely
 
