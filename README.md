@@ -1,9 +1,6 @@
 # enuzzo
 
 [![Studio](https://img.shields.io/badge/Netmilk_Studio-Creative_Director-7551FF?style=for-the-badge)](https://netmilk.studio)
-[![Hardware](https://img.shields.io/badge/ESP32-Too_Many-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](#things-with-screens)
-[![Pi](https://img.shields.io/badge/Raspberry_Pi-Also_Too_Many-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)](#things-with-screens)
-[![Swift](https://img.shields.io/badge/Swift-Learning_by_Shipping-000000?style=for-the-badge&logo=rust&logoColor=white)](#things-without-screens)
 [![License](https://img.shields.io/badge/License-MIT_(mostly)-10B981?style=for-the-badge)](#license)
 
 > Creative Director by title. Person who plugs things into other things until they glow, by vocation.
