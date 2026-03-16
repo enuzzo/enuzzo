@@ -8,9 +8,9 @@
 
 > Creative Director by title. Person who plugs things into other things until they glow, by vocation.
 
-I design and build things at **[Netmilk Studio](https://netmilk.studio)** — a graphic design and product studio in southern Switzerland where the line between "client project" and "desk full of microcontrollers" has been blurred beyond recognition since approximately 2019.
+I design and build things at **[Netmilk Studio](https://netmilk.studio)** — a branding, graphic design and product studio in southern Switzerland where the line between "client project" and "desk full of microcontrollers" has been blurred beyond recognition since approximately 2014.
 
-The work spans from brand systems and WordPress sites that pay the rent, to ESP32 firmware and Raspberry Pi installations that don't. Both are treated with the same care. One of them involves more soldering.
+The work spans from brand systems and WordPress sites, award winning Ecommerce sites that pay the rent, to ESP32 firmware and Raspberry Pi installations that don't. Both are treated with the same care. One of them involves more soldering a glowing lights.
 
 ---
 
@@ -33,7 +33,6 @@ Or at least, things where the screen is someone else's problem.
 | **[PRTCL](https://prtcl.es)** | Particle effect playground. Visual editor, text-to-particles with Google Fonts, dual export (full HTML + headless Elementor snippet). For anyone who wants animated particles on a website and doesn't want to learn WebGL. | Next.js 15, React Three Fiber, shadcn/ui |
 | **[CRUST](https://github.com/enuzzo/crust)** | Card + Rust. CLI tool for vCard 4.0 generation and QR code output. Because every agency eventually needs to batch-generate contact cards and the existing tools are all either abandoned or written in PHP. | Rust |
 | **Vibemilk** | The Netmilk design system. 270 CSS tokens, 10 themes, exports to JSON/Swift/Rust/C(RGB565)/Elementor. Works on a 3.49" ESP32 display and a full website with the same token file. | CSS custom properties, zero dependencies |
-| **Cowsmos** | Netmilk's internal management system. Time tracking, project management, invoicing. Named after cows because studio branding is a lifestyle. | Next.js 15, PostgreSQL, Drizzle, Better Auth |
 
 ## The Stack, Loosely
 
@@ -49,21 +48,21 @@ Not a tech stack in the traditional "I list frameworks on my LinkedIn" sense. Mo
 
 ## About Netmilk Studio
 
-Small studio, Italian-speaking Switzerland, near the lakes. We do design, branding, web, and increasingly weird hardware things. The team is small. The project range is not. Clients get brand systems and WordPress sites; the studio gets ESP32 prototypes and ambient computing experiments. Everyone seems happy with this arrangement.
+Small studio, Italian-speaking Switzerland, near the lakes. We do design, branding, web, and increasingly weird hardware things. The team is small. The project range is not. Clients get brand systems and lovely brands, design, websites; the studio gets prototypes and ambient computing experiments. Everyone seems happy with this arrangement.
 
-**[netmilk.studio](https://netmilk.studio)**
+**[netmilk.ch](https://netmilk.ch)**
 
 ---
 
 ## License
 
-Most things here are MIT. Use them, fork them, put them on hardware that costs less than lunch. Attribution appreciated. Don't ask me to debug your fork at 2am.
+Most things here are MIT. Use them, fork them, put them on hardware that costs less than lunch. Attribution appreciated. Cookies too.
 
 ---
 
 <div align="center">
 
-*Built with solder, CSS custom properties, an mass of Raspberry Pis,*
+*Built with solder, CSS custom properties, mass of Raspberry Pis,*
 *and the unwavering belief that a word clock in Klingon on a desk bar*
 *is a legitimate use of an engineering degree you don't have.*
 
