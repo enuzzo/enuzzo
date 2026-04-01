@@ -11,7 +11,7 @@ The work spans from brand systems and WordPress sites, award winning Ecommerce s
 
 ---
 
-## Things With Screens
+## Some Things With Screens
 
 Hardware projects that started as weekend experiments and somehow grew documentation.
 
@@ -21,14 +21,13 @@ Hardware projects that started as weekend experiments and somehow grew documenta
 | **[Retina Cannon](https://github.com/enuzzo/retinacannon)** | Real-time camera-to-shader visual engine. 11 effects, zero X server, one HDMI cable, instant party credibility. | Raspberry Pi 5, IMX219 | Actively melting retinas |
 | **[TaleVision](https://github.com/enuzzo/talevision)** | E-ink ambient display. LitClock mode (literary quotes synced to actual time) + SlowMovie mode (one frame every few minutes). | Pi Zero W, Inky Impression 4" | Rendering Koyaanisqatsi, one frame at a time |
 
-## Things Without Screens
+## Some things Without Screens
 
 Or at least, things where the screen is someone else's problem.
 
 | Project | What | Stack |
 |---|---|---|
 | **[PRTCL](https://prtcl.es)** | Particle effect playground. Visual editor, text-to-particles with Google Fonts, dual export (full HTML + headless Elementor snippet). For anyone who wants animated particles on a website and doesn't want to learn WebGL. | Next.js 15, React Three Fiber, shadcn/ui |
-| **[CRUST](https://github.com/enuzzo/crust)** | Card + Swift. CLI tool for vCard 4.0 generation and QR code output. Because every agency eventually needs to batch-generate contact cards and the existing tools are all either abandoned or written in PHP. | Swift |
 
 ## The Stack, Loosely
 
