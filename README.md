@@ -5,7 +5,7 @@
 
 > Creative Director by title. Person who plugs things into other things until they glow, by vocation.
 
-I design and build things at **[Netmilk Studio](https://netmilk.studio)** — a branding, graphic design and product studio in southern Switzerland where the line between "client project" and "desk full of microcontrollers" has been blurred beyond recognition since approximately 2014.
+I design and build things at **[Netmilk Studio](https://netmilk.studio)**, a branding, graphic design and product studio in southern Switzerland where the line between "client project" and "desk full of microcontrollers" has been blurred beyond recognition since approximately 2014.
 
 The work spans from brand systems and WordPress sites, award winning Ecommerce sites that pay the rent, to ESP32 firmware and Raspberry Pi installations that don't. Both are treated with the same care. One of them involves more soldering a glowing lights.
 
